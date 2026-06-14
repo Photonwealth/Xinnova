@@ -14,7 +14,7 @@ permalink: /about/
 
 <p>The name combines <em>Xin</em> (信 — truth, trust) and <em>nova</em> (new) — truthful innovation, grounded in verified data and first-principles thinking.</p>
 
-<hr style="margin: 32px 0;" />
+<hr />
 
 <h3>Topics</h3>
 <ul>
@@ -24,7 +24,7 @@ permalink: /about/
   <li>Industry trends — automotive CIS, SWIR, event-based vision</li>
 </ul>
 
-<hr style="margin: 32px 0;" />
+<hr />
 
 <h3>Contact</h3>
 <p>
