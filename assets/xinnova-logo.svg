@@ -35,10 +35,12 @@
     <circle cx="0" cy="0" r="57" fill="none" stroke="#C49B3C" stroke-width="1.2" opacity="0.5"/>
     <circle cx="0" cy="0" r="59.5" fill="none" stroke="#FFD700" stroke-width="0.6" opacity="0.25"/>
 
-    <!-- 白色X — 几何无衬线，占徽章直径85%，90°完美交叉，方端切角 -->
-    <g transform="translate(0, 2) rotate(45)">
-      <rect x="-50" y="-15" width="100" height="30" fill="#FFFFFF"/>
-      <rect x="-15" y="-50" width="30" height="100" fill="#FFFFFF"/>
+    <!-- 白色X — 75°夹角，顶部与底部水平切边，几何无衬线 -->
+    <g transform="translate(0, 2)">
+      <!-- 左臂 → 右上（角度 +37.5° 从垂直） -->
+      <path d="M 19,-39.7 L 41,-39.7 L -19,39.7 L -41,39.7 Z" fill="#FFFFFF"/>
+      <!-- 右臂 → 左上（角度 -37.5° 从垂直） -->
+      <path d="M -19,-39.7 L -41,-39.7 L 19,39.7 L 41,39.7 Z" fill="#FFFFFF"/>
     </g>
   </g>
 
@@ -57,7 +59,7 @@
   <!-- 金分割线 -->
   <line x1="130" y1="280" x2="270" y2="280" stroke="#C49B3C" stroke-width="0.5" opacity="0.25"/>
 
-  <!-- BUILD THE EDGE. CASH IT OUT. — 白色 -->
+  <!-- BUILD THE EDGE. CASH IT OUT. -->
   <text x="200" y="315" text-anchor="middle"
         font-family="'Inter','Helvetica Neue',Arial,sans-serif"
         font-size="10" font-weight="400" letter-spacing="4"
