@@ -24,8 +24,8 @@
     <circle cx="0" cy="0" r="87" fill="none" stroke="#FFD700" stroke-width="0.6" opacity="0.2"/>
 
     <g transform="translate(0, 2) rotate(45)">
-      <rect x="-53" y="-16" width="106" height="32" fill="#FFFFFF"/>
-      <rect x="-16" y="-53" width="32" height="106" fill="#FFFFFF"/>
+      <rect x="-73" y="-22" width="146" height="44" fill="#FFFFFF"/>
+      <rect x="-22" y="-73" width="44" height="146" fill="#FFFFFF"/>
     </g>
   </g>
 </svg>
