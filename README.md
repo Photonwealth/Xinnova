@@ -8,5 +8,6 @@ Visit the blog: **[photonwealth.github.io/Xinnova](https://photonwealth.github.i
 
 ### Latest Posts
 
+- [SPAD Arrays: The Third Pillar of CIS Is Taking Shape](https://photonwealth.github.io/Xinnova/spad-arrays-third-pillar-cis) — with 3 original illustrations
 - [LOFIC HDR: The Technology Reshaping Mobile Imaging in 2026](https://photonwealth.github.io/Xinnova/lofic-hdr-technology-reshaping-mobile-imaging) — Technical deep dive
 - [The CIS Market Landscape in 2026](https://photonwealth.github.io/Xinnova/cis-market-landscape-2026) — Sony, Samsung, OmniVision, SmartSens
